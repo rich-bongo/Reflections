@@ -1,0 +1,13 @@
+using a diff tool allows the user to view only differences in files. Comparing entire files with mostly all of the code either the same or only slightly different is a very difficult task.
+
+Viewing version history, epecially when multiple developers have worked on the same file gives the user the means to view changes to relevent code areas, enhancing the understanding of the code. Also, in the event that a change needs to be reverted, version control makes the change easy.
+
+Code committs should be runnable deliveries. Any automatic delivery of code to version control will result in delivering code that does not compile or work properly.
+
+saving all the files at once is important since any commercial software code base requires many files to operate and the versions of each of them need to be compatable.
+
+git log is used to see versions of file and git diff allows the use to view the changes between specific versions.
+
+Source control always allows you to revert a change and so it miminizes the impact of breaking the code.
+
+Project 2
