@@ -1,0 +1,4 @@
+
+When you initialize a directory you create all the hiddend directories that will contain history.
+
+Staging vs Working Dir: allows for... user to select files he wants to commit together
