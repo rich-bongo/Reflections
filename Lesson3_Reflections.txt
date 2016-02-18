@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+When multiple developers are working on the same code base, there needs to be a common repository for all developers.
