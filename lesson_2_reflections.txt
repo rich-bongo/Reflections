@@ -2,3 +2,13 @@
 When you initialize a directory you create all the hiddend directories that will contain history.
 
 Staging vs Working Dir: allows for... user to select files he wants to commit together
+
+use gid dif --staged
+
+Branches are useful to isolate distruptive changes from main
+
+Diagrams give you a picture of where the branches come from so you can understand the lineage of any version.
+
+result of merge is the logical sum of both files
+
+manual vs auto: auto best when there are no conflicts
